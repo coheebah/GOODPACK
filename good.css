@@ -1,0 +1,544 @@
+*{
+
+   margin: 0;
+    padding:0;
+    box-sizing: border-box;
+ 
+
+}
+.nav1{ 
+   
+    background-color:rgb(235, 233, 233);
+  
+}
+.nav-section{
+    margin-top: -7.5px;
+    height: 45px;
+    color: white;
+    font-size: 15px;
+    background-color: green;
+    display: grid;
+    grid-template-columns: 65% 35%;
+    align-items: center;
+    position: relative;
+  z-index: 1200;
+  width: 100%;
+  
+   
+}
+
+.customer{
+    margin-left: 60px;
+   
+}
+
+
+.good-section{
+    background-color: white;
+    display: grid;
+    grid-template-columns: 45% 55%;
+  align-items: center;
+  position:sticky;
+  z-index: 1000;
+  width: 100%;
+  top: -20px;
+ padding-bottom: 100px;
+ height: 80px;
+ 
+}
+
+
+
+.good{
+    width: 20rem;
+    margin-top: 25px;
+    margin-bottom: 20px;
+   
+
+}
+.company{
+     color: rgb(66, 61, 61);
+     font-family: poppins;
+   margin-left: 30px;
+}
+
+
+.h2head{
+margin: 20px;
+}
+
+.vid-section{
+    display: flex;
+    color: white;
+    align-items: center;
+    height: 659px;
+}
+
+video{
+    
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+
+}
+.video1{
+    width: 55%;
+    height: 100%;
+    
+   
+}
+
+.we{
+    background-color:#1a376e;
+    font-size: 30px;
+    width: 45%;
+    height: 100%;
+     
+}
+
+
+.are{
+  font-size: 35px;
+  margin-top: 40px;
+  margin-left: 10%;
+}
+
+.pack {
+      font-size: 50px;
+      font-family: sans-serif;
+margin-bottom: 40px;
+margin-left: 10%;
+text-shadow: 2px 2px 4px black;
+}
+
+.global{
+    margin-left: 10%;
+}
+
+
+.butty:hover {
+    color: black;
+    background-color: white;
+}
+.butty{
+    border-radius: 50px;
+    background-color: green;
+    margin-top: 40px;
+    margin-bottom: 90px;
+    margin-left: 10%;
+    height: 60px;
+    width: 190px;
+    color: white;
+}
+
+
+
+.gazing{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    color: rgb(9, 9, 58);
+    font-size: 20px;
+    background-color: white;
+    margin-right: 50px;
+    margin-top: 40px;
+}
+.gaze1{
+    width: 90%;
+    margin-left: 60px;
+    margin-top: 60px;
+
+}
+.creating{
+    margin-left: 50px;
+    margin-top: 80px;
+    color: rgb(56, 56, 141);
+}
+.pay-per-use{
+    margin-left: 8%;
+    font-family: sans-serif;
+    color: rgb(82, 82, 124);
+    font-size: 20px;
+}
+
+.span1{
+    color:green;
+}
+.button2:hover{
+    background-color: green;
+    transition: 0.5s;
+}
+.button2{
+height: 50px;
+width: 180px;
+background-color: rgb(54, 54, 163);
+margin-left: 8%;
+}
+.pallet{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    font-family: sans-serif;
+    background-color: white;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+  
+    
+}
+
+.opt{
+    color:rgb(56, 56, 141);
+    font-size: 40px;
+    margin-left: 20px;
+}
+.protect{
+    color: rgb(56, 56, 141);
+    font-size: 40px;
+}
+.optimize{
+    margin-left: 80px;
+    margin-top: 40px;
+    
+}
+.rugged{
+    color: rgb(82, 82, 124);
+    vertical-align: baseline;
+    
+     font-family: sans-serif;
+     font-size: 20px;
+}
+
+.button3{
+    background-color: #052154 ;
+    height: 50px;
+width: 180px;
+padding: 10px;
+margin-top: 30px;
+}
+.button3:hover{
+    background-color: green;
+}
+
+.pallet1{
+    width: 70%;
+    height: 70%;
+    margin-top: 30px;
+}
+
+.round{
+    font-family: sans-serif;
+    display: flex;
+   
+    background-color: white;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    
+}
+.round-logo{
+    height: 30rem;
+        width:40rem;
+        margin-right: 5rem;
+}
+
+.transform{
+    color:rgb(56, 56, 141);
+    font-family: sans-serif;
+    margin-bottom: 30px;
+    margin-top: 80px;
+    
+}
+
+.laboratory{
+    
+    color: rgb(82, 82, 124);
+    font-size: 20px;
+}
+.button4{
+    background-color: #052154 ;
+    height: 50px;
+width: 180px;
+padding: 10px;
+margin-top: 30px;
+}
+.button4:hover{
+    background-color: green;
+}
+
+.tyre-section{
+    background-color: white;
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+.tyre-text1{
+    color:rgb(56, 56, 141);
+    font-family: sans-serif;
+    margin-top: 50px;
+    margin-left: 80px;
+font-size: 40px;
+margin-bottom: 20px;
+}
+
+
+.tyre-text2{
+    margin-left: 80px;
+    color: rgb(82, 82, 124);
+    font-size: 20px;
+   
+}
+
+
+
+.tyre1>img{
+    height:15rem;
+    width: 30rem;
+    transition: 0.4s;
+    
+}
+
+.tyre1>img:hover {
+    transform: scale(1.2);
+}
+.tyre1{
+    margin-top: 80px;
+    margin-left: 13.5rem;
+
+  }
+.button5{
+    background-color: #052154 ;
+    height: 50px;
+width: 180px;
+padding: 10px;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+.button5:hover{
+    background-color: green
+}
+
+.square-section{
+    display: flex;
+        padding-top: 40px;
+}
+
+.square-text{
+    width: 25%;
+   
+  
+}
+
+.number{
+    font-family: sans-serif;
+    margin-top: 60px;
+    margin-left: 80px;
+    color:rgb(56, 56, 141);
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+
+.world{
+    margin-left: 80px;
+    color: rgb(82, 82, 124);
+    font-size: 20px;
+}
+.square{
+    margin-top: 50px;
+  margin-left: 5rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) auto;
+ gap: 30px;
+
+}
+#shape{
+    height: 18rem;
+    width: 18rem;
+}
+
+
+
+
+
+
+.last-box{
+    display: flex;
+        
+}
+
+.round-text{
+    width: 24%;
+   margin-right: 10px;
+  
+}
+
+.number2{
+    font-family: sans-serif;
+    margin-top: 60px;
+    margin-left: 80px;
+    color:rgb(56, 56, 141);
+    font-size: 40px;
+    margin-bottom: 25px;
+    
+}
+
+.world2{
+    margin-left: 80px;
+    color: rgb(82, 82, 124);
+    font-size: 20px;
+}
+
+
+.boxes{
+    color: white;
+     margin-top: 50px;
+  margin-left: 5rem;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr) auto;
+ gap: 30px;
+
+}
+#box{
+    height: 15rem;
+    width: 28rem;
+      
+}
+
+.capital{
+    overflow: hidden;
+    padding: 5px;
+}
+.capital>img:hover {
+    transform: scale(1.1);
+    transition: 0.4s;
+}
+
+.end>img:hover {
+    transform: scale(1.3);
+    transition: 0.4s;
+    border: 50px;
+       
+}
+
+.end{
+    overflow: hidden;
+    padding: 5px;
+}
+
+
+
+.esg{ overflow: hidden;
+    padding: 5px;
+
+}
+
+.esg>img:hover {
+    transform: scale(1.1);
+    transition: 0.4s;
+          
+}
+
+.on-site{
+   
+    overflow: hidden;
+    padding: 5px;
+   
+}
+.on-site>img:hover {
+    transform: scale(1.1);
+    transition: 0.4s;
+  
+}
+
+.circle{
+   z-index: 100%;
+   width: 1px;
+   z-index: -1200%;
+   position: relative;
+   margin-top:-420px;
+   margin-left: 250px;
+ }
+.gold-circle{
+    border-radius: 50%;
+}
+
+.footer-section{
+    display: flex;
+    color: white;
+    font-size: 17px;
+    /* font-family: sans-serif; */
+    background-color: rgb(53, 50, 50);
+    height: 18rem;
+    margin-top: 15px;
+}
+
+.our-company{
+margin-top: 5rem;
+padding-left: 4rem;
+width: 30%;
+font-size: 18px;
+font-family: sans-serif;
+margin-left: 4rem;
+}
+#pimp:hover{
+    color: green;
+}
+
+
+.site-map{
+    margin-top: 5rem;
+    width: 35%;
+    font-size: 18px;
+font-family: sans-serif;
+}
+
+.subscribe{
+    margin-right: 5rem;
+    width: 35%;
+
+}
+.subscribe-button{
+    background-color: rgb(25, 143, 25);
+    height: 4.5rem;
+width: 12rem;
+font-size: 18px;
+font-family: sans-serif;
+padding-top: 2px;
+padding-bottom: 2px;
+margin-top: 5rem;
+}
+
+.subscribe-button:hover{
+    background-color: rgb(71, 71, 180);
+    
+}
+
+.policy{
+    background-color: black;
+    color: rgb(148, 136, 136);
+    width: 100%;
+    height: 5rem;
+      }
+
+      .finish{
+        margin-left: 7.5rem;
+        
+      }
+
+   #bella:link,.bella:visited{
+    color: rgb(148, 136, 136);
+    font-size: 18px;
+    text-decoration: none;
+   }
+   #bella{
+    background-color: black;
+    border: 0px;
+    text-decoration: none;
+    color: rgb(148, 136, 136);
+   }
+  
+   #bella:hover{
+    color: green;
+   }
+   
+   
